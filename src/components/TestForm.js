@@ -30,7 +30,7 @@ const TestForm = () => {
               </Field>
             </div>
             <div>
-              <label>Request</label>
+              <label>Host</label>
               <Field
                 name="host"
                 component="input"
@@ -39,7 +39,7 @@ const TestForm = () => {
               />
             </div>
             <div>
-              <label>Request</label>
+              <label>Route</label>
               <Field
                 name="route"
                 component="input"
